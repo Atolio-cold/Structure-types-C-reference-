@@ -17,6 +17,12 @@ public readonly struct Coords
 
 class Program
 {
+    private int counter;
+    public int Counter
+{
+    get => counter;
+    set => counter = value;
+}   
     static void Main()
     {
         Coords point = new Coords(3.5, 7.2);
@@ -24,4 +30,5 @@ class Program
         Console.WriteLine(point);  
     }
 }
+
 
