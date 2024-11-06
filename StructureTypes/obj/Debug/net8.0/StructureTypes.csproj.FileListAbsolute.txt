@@ -1,0 +1,14 @@
+C:\anton\programming\C#\StructureTypes\bin\Debug\net8.0\StructureTypes.exe
+C:\anton\programming\C#\StructureTypes\bin\Debug\net8.0\StructureTypes.deps.json
+C:\anton\programming\C#\StructureTypes\bin\Debug\net8.0\StructureTypes.runtimeconfig.json
+C:\anton\programming\C#\StructureTypes\bin\Debug\net8.0\StructureTypes.dll
+C:\anton\programming\C#\StructureTypes\bin\Debug\net8.0\StructureTypes.pdb
+C:\anton\programming\C#\StructureTypes\obj\Debug\net8.0\StructureTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\programming\C#\StructureTypes\obj\Debug\net8.0\StructureTypes.AssemblyInfoInputs.cache
+C:\anton\programming\C#\StructureTypes\obj\Debug\net8.0\StructureTypes.AssemblyInfo.cs
+C:\anton\programming\C#\StructureTypes\obj\Debug\net8.0\StructureTypes.csproj.CoreCompileInputs.cache
+C:\anton\programming\C#\StructureTypes\obj\Debug\net8.0\StructureTypes.dll
+C:\anton\programming\C#\StructureTypes\obj\Debug\net8.0\refint\StructureTypes.dll
+C:\anton\programming\C#\StructureTypes\obj\Debug\net8.0\StructureTypes.pdb
+C:\anton\programming\C#\StructureTypes\obj\Debug\net8.0\StructureTypes.genruntimeconfig.cache
+C:\anton\programming\C#\StructureTypes\obj\Debug\net8.0\ref\StructureTypes.dll
